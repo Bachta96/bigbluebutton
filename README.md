@@ -13,6 +13,8 @@ We designed BigBlueButton for online learning (though it can be used for many [o
   * Group collaboration (many-to-many)
   * Online classes (one-to-many)
 
+Covid 19 was certainly an international disease that caused a lot of damage. However, it has been beneficial for the BigBlueButton platform in the sense that its use has increased and has allowed teachers and students alike to communicate and continue their education.
+
 You can install on a Ubuntu 16.04 64-bit server.  We provide [bbb-install.sh](https://github.com/bigbluebutton/bbb-install) to let you have a server up and running within 30 minutes (or your money back 😉).
 
 For full technical documentation BigBlueButton -- including architecture, features, API, and GreenLight (the default front-end) -- see [https://docs.bigbluebutton.org/](https://docs.bigbluebutton.org/).
